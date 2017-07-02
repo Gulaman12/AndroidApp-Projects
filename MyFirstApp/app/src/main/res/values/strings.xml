@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="edit_message">Enter your first name only</string>
+    <string name="button_send">Send</string>
+    <string name="edit_message2">Enter an animal</string>
+    <string name="edit_message3">Enter your favourite colour</string>
+    <string name="edit_message4">Enter an object</string>
+    <string name="edit_message5">Enter a verb</string>
+</resources>
